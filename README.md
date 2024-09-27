@@ -42,7 +42,7 @@ Here are some ideas to get you started:
  
 # Qualifcations
 
-I am a Computer Science major at SFU, currently in my 2nd year, passionate about creating products. Below are the languages I specialize in:
+I am a Computer Science major at SFU, currently in my 3rd year, passionate about creating products. Below are the languages I specialize in:
 
 - <img align="left" alt="C/C++" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> C/C++
 - <img align="left" alt="C#" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /> C#
