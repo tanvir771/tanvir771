@@ -58,14 +58,24 @@ CS student, firmware engineer, systems tinkerer
 </p>
 
 
-## 🌱 Learning & Beyond
+## 🌱 Currently Growing
 
-- Real-time Embedded Systems  
-- Qt/QML GUI Development  
+Learning **real-time embedded design** (RTOS internals, task schedulers), building **smarter test frameworks**, and exploring **Qt/QML** for embedded GUIs. Always working on understanding systems at a deeper level.
 
 ---
 
-**📫 Let’s connect:**  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tanvirleon)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvirleon/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+## ✨ Beyond Code
+
+📷 **Photography** — Street and architectural  
+🧠 **Curiosity** — How things *really* work under the hood
+
+---
+
+<p align="center">
+  <pre>"Build things that feel real. Bonus points if it blinks or has a memory leak."</pre>
+  <br/>
+  <b>Let's connect:</b><br/>
+  <a href="https://github.com/tanvirleon"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tanvirleon/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
