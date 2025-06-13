@@ -5,6 +5,30 @@
 > *"I like building things that run fast, run reliably, and run close to the metal."*
 ---
 
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFB7&center=true&vCenter=true&width=550&lines=Booting+terminal+session...;Welcome+back%2C+Tanvir.;Firmware+Engineer+in+training;Always+curious...)
+
+<div style="background:#0e1111;padding:10px;border-radius:10px;">
+
+```
+👤 tanvir@github:~$ whoami
+CS student, firmware engineer, systems tinkerer
+
+📂 tanvir@github:~$ cat interests.txt
+└── embedded systems & firmware
+└── real-time operating systems
+└── driver development
+└── occasionally: full-stack web apps
+
+⚙️ tanvir@github:~$ ./current_status
+🎓 CS @ SFU 
+💡 Building things that run close to the metal
+```
+
+</div>
+</div>
+
 ## 🚀 About Me
 
 - 🔧 **Firmware & Embedded:** STM32, FreeRTOS, driver development
