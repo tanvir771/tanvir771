@@ -1,60 +1,47 @@
-### Hi there, I am Tanvir👋
 
-<!--
-**tanvir771/tanvir771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Tanvir Leon 👋
 
-Here are some ideas to get you started:
+**CS @ Simon Fraser University**  
+> *"I like building things that run fast, run reliably, and run close to the metal."*
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
 
-<br/>
+- 🔧 **Firmware & Embedded:** STM32, FreeRTOS, driver development
+- 💻 **Low-level Programming:** C/C++, memory management, hardware interfaces
+- 🌐 **Full-stack:** Next.js, Strapi, PostgreSQL
+- 🔍 **Curiosity-Driven:** I love digging under the hood
 
+---
 
+## 🛠️ Featured Projects
 
-<a href="https://www.linkedin.com/in/tanvir-leon/">
-<img align="left" alt="Tanvir Leon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/tanvir.leon7/">
-<img align="left" alt="Tanvir Leon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="mailto:tanvir_leon@sfu.ca">
-<img align="left" alt="Tanvir Leon| Email" width="26px" src="https://cdn.jsdelivr.net/npm/@internetarchive/icon-email@1.3.4/email.svg" />
-</a>
-<br />
+- **Phantom** – TI-based control system for formula SAE car
+- **Subvision Robotics** – Real-time firmware for autonomous marine robot(STM32 + FreeRTOS)  
+- **CJSF 90.1FM** – Content management platform (Next.js, Strapi)
 
-<br />
+---
 
-# About Me
-- 🔭 I’m currently a student at Simon Fraser University.
-- 🌱 I’m currently looking for a COOP.
-- 💬 Ask me about anything, Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
-- ✨ I enjoy photography and speedcubing!
+## 💻 Tech Stack
 
- 
-# Qualifcations
-
-I am a Computer Science major at SFU, currently in my 3rd year, passionate about creating products. Below are the languages I specialize in:
-
-- <img align="left" alt="C/C++" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> C/C++
-- <img align="left" alt="C#" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /> C#
-- <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> Python
-- <img align="left" alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> JavaScript
-
-Frameworks I have hands-on experience with:
-
-- <img align="left" alt="Django" width="22px" src="https://img.icons8.com/color/48/000000/django.png" /> Django
-- <img align="left" alt="Pygame" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> Pygame
-- <img align="left" alt="WPF" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" /> WPF (Windows Presentation Foundation)
-
-Feel free to explore my repositories and projects!
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FreeRTOS-28B463?style=flat&logo=freertos&logoColor=white" alt="FreeRTOS" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</p>
 
 
+## 🌱 Learning & Beyond
+
+- Real-time Embedded Systems  
+- Qt/QML GUI Development  
+
+---
+
+**📫 Let’s connect:**  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tanvirleon)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvirleon/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
