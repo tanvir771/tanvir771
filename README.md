@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Featured Projects
+## 🛠️ Current Teams
 
 - **Phantom** – TI-based control system for formula SAE car
 - **Subvision Robotics** – Real-time firmware for autonomous marine robot(STM32 + FreeRTOS)  
