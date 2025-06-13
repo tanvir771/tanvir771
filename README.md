@@ -41,7 +41,7 @@ CS student, firmware engineer, systems tinkerer
 ## 🛠️ Current Teams
 
 - **Firmware @ Team Phantom** – TI-based control system for formula SAE car
-- **Firmware @ Subvision Robotics** – Real-time firmware for autonomous marine robot(STM32 + FreeRTOS)  
+- **Firmware @ Subvision Robotics** – Real-time firmware for autonomous marine robot (STM32 + FreeRTOS)  
 - **Full Stack @ CJSF 90.1FM** – Content management platform (Next.js, Strapi)
 
 ---
