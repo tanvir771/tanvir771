@@ -40,7 +40,7 @@ CS student, firmware engineer, systems tinkerer
 
 ## ⚙️ Current Teams
 
-- **Firmware – VCU @ Phantom Racing**  
+- **Firmware – VCU @ Team Phantom**  
   TI-based control system for Formula SAE electric vehicle
 
 - **Embedded Software @ Subvision Robotics**  
